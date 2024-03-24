@@ -1,4 +1,4 @@
-Стек: Kotlin, Compose, Coroutines, Flow, Retrofit, Single Activity, MVVM, Android Navigation, Intent.
+Стек: Kotlin, Compose, Coroutines, Flow, Retrofit, Single Activity, MVVM, Jetpack Navigation, Intent.
 
 В целом делал работу 2 дня.
 Времени было очень мало, ничего не успевал, так что расписать могу только приблизительно.
