@@ -3,13 +3,12 @@
 В целом делал работу 2 дня.
 Времени было очень мало, ничего не успевал, так что расписать могу только приблизительно.
 
-![Screenshot1](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Screenshot_20240405_183718.png)
-![Screenshot2](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Screenshot_20240405_183853.png)
-![Screenshot3](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Screenshot_20240405_183932.png)
-![Screenshot4](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Screenshot_20240405_183952.png)
-![Screenshot5](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Screenshot_20240405_184009.png)
-![Screenshot6](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Screenshot_20240405_184032.png)
-![Screenshot7](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Screenshot_20240405_184059.png)
+![Screenshot1](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Снимок%20экрана%20(57).png)
+![Screenshot2](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Снимок%20экрана%20(58).png)
+![Screenshot3](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Снимок%20экрана%20(59).png)
+![Screenshot4](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Снимок%20экрана%20(60).png)
+![Screenshot5](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Снимок%20экрана%20(61).png)
+![Screenshot6](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Снимок%20экрана%20(62).png)
 
 Ссылки:
 https://www.figma.com/file/GRRKONipVClULsfdCAuVs1/KODE-Trainee-DEV-%D0%92%D0%B5%D1%81%D0%BD%D0%B0%6024?type=design&node-id=11-19918&mode=design&t=DrANtm2AaFQNwVpw-0
