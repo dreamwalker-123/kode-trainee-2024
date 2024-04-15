@@ -1,7 +1,6 @@
 Стек: Kotlin, Compose, Coroutines, Flow, Retrofit, Single Activity, MVVM, Jetpack Navigation.
 
 В целом делал работу 2 дня.
-Времени было очень мало, ничего не успевал, так что расписать могу только приблизительно.
 
 ![Screenshot1](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Снимок%20экрана%20(57).png)
 ![Screenshot2](https://github.com/dreamwalker-123/kode-trainee-2024/blob/master/Снимок%20экрана%20(58).png)
